@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Reading url from property file]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign In button]]>
+    </line>
+    <line>
+      <![CDATA[hii login page testNG]]>
+    </line>
+    <line>
+      <![CDATA[Reading mobnum from property file]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[entering the mob no]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[cliking on signINButton ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 5000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading Pass from property file]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[entering the password]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submitButton]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[clicking on ok button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[clicking on close button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[getting accBalance ]]>
+    </line>
+    <line>
+      <![CDATA[Account Balance is Rs.5,00,000.00]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[getting accBalance ]]>
+    </line>
+    <line>
+      <![CDATA[Account Balance is Rs.5,00,000.00]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[TAKESCREENSHOT]]>
+    </line>
+    <line>
+      <![CDATA[TCvalidateaccBalanceis fail..try again ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[TAKESCREENSHOT]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[Logging out]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign In button]]>
+    </line>
+    <line>
+      <![CDATA[hii login page testNG]]>
+    </line>
+    <line>
+      <![CDATA[Reading mobnum from property file]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[entering the mob no]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[cliking on signINButton ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 5000ms]]>
+    </line>
+    <line>
+      <![CDATA[Reading Pass from property file]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[entering the password]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[clicking on submitButton]]>
+    </line>
+    <line>
+      <![CDATA[there is no popup]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[the actual string is]]>
+    </line>
+    <line>
+      <![CDATA[Actual username isshila jogdand]]>
+    </line>
+    <line>
+      <![CDATA[Reading username from property file]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 1000ms]]>
+    </line>
+    <line>
+      <![CDATA[the actual string is]]>
+    </line>
+    <line>
+      <![CDATA[Actual username isshila jogdand]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[TAKESCREENSHOT]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for 500ms]]>
+    </line>
+    <line>
+      <![CDATA[Logging out]]>
+    </line>
+    <line>
+      <![CDATA[browser closing ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-06T20:43:28 IST" name="Default suite" finished-at="2022-12-06T20:44:29 IST" duration-ms="60366">
+    <groups>
+    </groups>
+    <test started-at="2022-12-06T20:43:28 IST" name="Default test" finished-at="2022-12-06T20:44:29 IST" duration-ms="60366">
+      <class name="neoStroxTest.ValidateNeoStoxUserName2">
+        <test-method is-config="true" signature="launchNeostrox()[pri:0, instance:neoStroxTest.ValidateNeoStoxUserName2@82de64a]" started-at="2022-12-06T20:43:29 IST" name="launchNeostrox" finished-at="2022-12-06T20:43:45 IST" duration-ms="16807" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading url from property file]]>
+            </line>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchNeostrox -->
+        <test-method is-config="true" signature="logintoNeoStox()[pri:0, instance:neoStroxTest.ValidateNeoStoxUserName2@82de64a]" started-at="2022-12-06T20:43:45 IST" name="logintoNeoStox" finished-at="2022-12-06T20:44:06 IST" duration-ms="20506" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign In button]]>
+            </line>
+            <line>
+              <![CDATA[hii login page testNG]]>
+            </line>
+            <line>
+              <![CDATA[Reading mobnum from property file]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[entering the mob no]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[cliking on signINButton ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 5000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading Pass from property file]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[entering the password]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submitButton]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[clicking on ok button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[clicking on close button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintoNeoStox -->
+        <test-method signature="validateaccBalance()[pri:-1, instance:neoStroxTest.ValidateNeoStoxUserName2@82de64a]" started-at="2022-12-06T20:44:06 IST" name="validateaccBalance" finished-at="2022-12-06T20:44:06 IST" duration-ms="339" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.fail(Assert.java:106)
+at neoStroxTest.ValidateNeoStoxUserName2.validateaccBalance(ValidateNeoStoxUserName2.java:70)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[getting accBalance ]]>
+            </line>
+            <line>
+              <![CDATA[Account Balance is Rs.5,00,000.00]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[getting accBalance ]]>
+            </line>
+            <line>
+              <![CDATA[Account Balance is Rs.5,00,000.00]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[TAKESCREENSHOT]]>
+            </line>
+            <line>
+              <![CDATA[TCvalidateaccBalanceis fail..try again ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[TAKESCREENSHOT]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateaccBalance -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:neoStroxTest.ValidateNeoStoxUserName2@82de64a]" started-at="2022-12-06T20:44:06 IST" name="logout" finished-at="2022-12-06T20:44:07 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[Logging out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="logintoNeoStox()[pri:0, instance:neoStroxTest.ValidateNeoStoxUserName2@82de64a]" started-at="2022-12-06T20:44:07 IST" name="logintoNeoStox" finished-at="2022-12-06T20:44:28 IST" duration-ms="21199" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign In button]]>
+            </line>
+            <line>
+              <![CDATA[hii login page testNG]]>
+            </line>
+            <line>
+              <![CDATA[Reading mobnum from property file]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[entering the mob no]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[cliking on signINButton ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 5000ms]]>
+            </line>
+            <line>
+              <![CDATA[Reading Pass from property file]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[entering the password]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[clicking on submitButton]]>
+            </line>
+            <line>
+              <![CDATA[there is no popup]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logintoNeoStox -->
+        <test-method signature="validateUserName()[pri:0, instance:neoStroxTest.ValidateNeoStoxUserName2@82de64a]" started-at="2022-12-06T20:44:28 IST" name="validateUserName" finished-at="2022-12-06T20:44:28 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[the actual string is]]>
+            </line>
+            <line>
+              <![CDATA[Actual username isshila jogdand]]>
+            </line>
+            <line>
+              <![CDATA[Reading username from property file]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 1000ms]]>
+            </line>
+            <line>
+              <![CDATA[the actual string is]]>
+            </line>
+            <line>
+              <![CDATA[Actual username isshila jogdand]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[TAKESCREENSHOT]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:neoStroxTest.ValidateNeoStoxUserName2@82de64a]" started-at="2022-12-06T20:44:28 IST" name="logout" finished-at="2022-12-06T20:44:28 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for 500ms]]>
+            </line>
+            <line>
+              <![CDATA[Logging out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStroxTest.ValidateNeoStoxUserName2@82de64a]" started-at="2022-12-06T20:44:28 IST" name="closeBrowser" finished-at="2022-12-06T20:44:29 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser closing ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- neoStroxTest.ValidateNeoStoxUserName2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
