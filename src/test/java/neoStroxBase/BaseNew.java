@@ -22,7 +22,6 @@ public class BaseNew {
 	 Reporter.log("Launching browser", true);
 	 Thread.sleep(1000);
 	}
-	
 	public void closingBrowser(WebDriver driver) throws InterruptedException
 	{
 		Reporter.log("closing browser", true);
