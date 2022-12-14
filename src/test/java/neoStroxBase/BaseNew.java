@@ -15,8 +15,7 @@ public class BaseNew {
 	{
 	System.setProperty("webdriver.chrome.driver", "D:\\sellenium\\chromedriver_win32\\chromedriver.exe");
 	 driver=new ChromeDriver();
-	 
-	 driver.manage().window().maximize();
+	  driver.manage().window().maximize();
 	 driver.get(UtilityNEW.readDatafromPropertiesFile("url"));
 	// driver.get("https://neostox.com/sign-in");
 	 Reporter.log("Launching browser", true);
